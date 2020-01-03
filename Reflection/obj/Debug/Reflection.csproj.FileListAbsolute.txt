@@ -1,0 +1,10 @@
+C:\Users\Code\source\repos\Reflection\Reflection\bin\Debug\Reflection.exe.config
+C:\Users\Code\source\repos\Reflection\Reflection\bin\Debug\Reflection.exe
+C:\Users\Code\source\repos\Reflection\Reflection\bin\Debug\Reflection.pdb
+C:\Users\Code\source\repos\Reflection\Reflection\obj\Debug\Reflection.csprojAssemblyReference.cache
+C:\Users\Code\source\repos\Reflection\Reflection\obj\Debug\Reflection.Form1.resources
+C:\Users\Code\source\repos\Reflection\Reflection\obj\Debug\Reflection.Properties.Resources.resources
+C:\Users\Code\source\repos\Reflection\Reflection\obj\Debug\Reflection.csproj.GenerateResource.cache
+C:\Users\Code\source\repos\Reflection\Reflection\obj\Debug\Reflection.csproj.CoreCompileInputs.cache
+C:\Users\Code\source\repos\Reflection\Reflection\obj\Debug\Reflection.exe
+C:\Users\Code\source\repos\Reflection\Reflection\obj\Debug\Reflection.pdb
